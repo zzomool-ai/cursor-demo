@@ -1,0 +1,22 @@
+{
+  "name": "cursor-demo",
+  "version": "1.1.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test src/email.test.js src/auth.test.js",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzomool-ai/cursor-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/zzomool-ai/cursor-demo/issues"
+  },
+  "homepage": "https://github.com/zzomool-ai/cursor-demo#readme"
+}
